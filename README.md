@@ -95,7 +95,7 @@ python /src/OnlinePrediction/OnlinePrediction.py  smtp  /mypath/smtp.csv    /myp
 ```
 #### About hyper-parameters
 Hyper-parameters are leared by grid search with respect to each dataset, and can be modified in [conf_init.py] and [conf_online.py]
-
+thank you for author this project "binli826"
 
 
 ## Versions
