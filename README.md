@@ -29,7 +29,7 @@ to fit the latest data property.
 
 ## Model
 #### LSTM-Autoencoder
-The LSTM-Autoencoder is based on the work of [Malhotra et al.] There are two LSTM units, one as encoder and the other one as decoder. Model will only be trained with normal data, so the reconstruction of anomalies is supposed to lead higher reconstruction error.
+The LSTM-Autoencoder is based on the work of There are two LSTM units, one as encoder and the other one as decoder. Model will only be trained with normal data, so the reconstruction of anomalies is supposed to lead higher reconstruction error.
 
 ![LSTM-Autoencoder](https://github.com/binli826/LSTM-Autoencoders/blob/master/Figures/LSTM-Autoencoder.PNG)
 
