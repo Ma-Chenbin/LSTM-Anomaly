@@ -4,11 +4,6 @@ LSTM ANOMALY detection
 
 This project is my master thesis. The main target is to maintain an adaptive autoencoder-based anomaly detection framework that is able to not only detect contextual anomalies from streaming data, but also update itself according to the latest data feature.
 
-## Quick access
-
-  - [Thesis](https://github.com/binli826/LSTM-Autoencoders/blob/master/Thesis.pdf) 
-  - [Slides](https://github.com/binli826/LSTM-Autoencoders/blob/master/Slides.pdf)
-  - [Usage](https://github.com/binli826/LSTM-Autoencoders/tree/master#usage)
 
 ## Introduction
 The high-volume and -velocity data stream generated from devices and applications from
